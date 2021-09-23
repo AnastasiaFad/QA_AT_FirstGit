@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\2 month\hw5_Doctor\hw5_Doctor\hw5_Doctor.csproj" />
+    <ProjectReference Include="..\..\..\2 month\hw5_phoneBook\hw5_phoneBook\hw5_phoneBook.csproj" />
+    <ProjectReference Include="..\..\..\2 month\HW6_lIBRARY\HW6_lIBRARY\HW6_Library.csproj" />
+    <ProjectReference Include="..\..\..\2 month\командная работа\Game\Game\Game.csproj" />
+    <ProjectReference Include="..\hw5_registration\hw5_registration.csproj" />
+  </ItemGroup>
+
+</Project>

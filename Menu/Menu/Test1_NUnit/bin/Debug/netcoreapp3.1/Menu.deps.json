@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Menu/1.0.0": {
+        "dependencies": {
+          "Game": "1.0.0",
+          "HW6_Library": "1.0.0",
+          "hw5_Doctor": "1.0.0",
+          "hw5_phoneBook": "1.0.0",
+          "hw5_registration": "1.0.0"
+        },
+        "runtime": {
+          "Menu.dll": {}
+        }
+      },
+      "Game/1.0.0": {
+        "runtime": {
+          "Game.dll": {}
+        }
+      },
+      "hw5_Doctor/1.0.0": {
+        "runtime": {
+          "hw5_Doctor.dll": {}
+        }
+      },
+      "hw5_phoneBook/1.0.0": {
+        "runtime": {
+          "hw5_phoneBook.dll": {}
+        }
+      },
+      "hw5_registration/1.0.0": {
+        "runtime": {
+          "hw5_registration.dll": {}
+        }
+      },
+      "HW6_Library/1.0.0": {
+        "runtime": {
+          "HW6_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "hw5_Doctor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "hw5_phoneBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "hw5_registration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HW6_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
