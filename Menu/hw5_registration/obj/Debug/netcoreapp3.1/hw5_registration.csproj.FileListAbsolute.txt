@@ -1,0 +1,26 @@
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.csprojAssemblyReference.cache
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.AssemblyInfoInputs.cache
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.AssemblyInfo.cs
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.exe
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.deps.json
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.runtimeconfig.json
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.runtimeconfig.dev.json
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.dll
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.pdb
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.dll
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.pdb
+C:\Users\User\Documents\универ доки\QA_AT\AT\1 month\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.genruntimeconfig.cache
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.exe
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.deps.json
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.runtimeconfig.json
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.runtimeconfig.dev.json
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.dll
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\bin\Debug\netcoreapp3.1\hw5_registration.pdb
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.csprojAssemblyReference.cache
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.AssemblyInfoInputs.cache
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.AssemblyInfo.cs
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.dll
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.pdb
+C:\Users\User\Documents\универ доки\QA_AT\AT\GIT\Menu\hw5_registration\obj\Debug\netcoreapp3.1\hw5_registration.genruntimeconfig.cache

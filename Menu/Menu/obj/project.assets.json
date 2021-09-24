@@ -1,0 +1,166 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Game/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Game.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Game.dll": {}
+        }
+      },
+      "hw5_Doctor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/hw5_Doctor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/hw5_Doctor.dll": {}
+        }
+      },
+      "hw5_phoneBook/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/hw5_phoneBook.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/hw5_phoneBook.dll": {}
+        }
+      },
+      "hw5_registration/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/hw5_registration.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/hw5_registration.dll": {}
+        }
+      },
+      "HW6_Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HW6_Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HW6_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game/1.0.0": {
+      "type": "project",
+      "path": "../../../2 month/командная работа/Game/Game/Game.csproj",
+      "msbuildProject": "../../../2 month/командная работа/Game/Game/Game.csproj"
+    },
+    "hw5_Doctor/1.0.0": {
+      "type": "project",
+      "path": "../../../2 month/hw5_Doctor/hw5_Doctor/hw5_Doctor.csproj",
+      "msbuildProject": "../../../2 month/hw5_Doctor/hw5_Doctor/hw5_Doctor.csproj"
+    },
+    "hw5_phoneBook/1.0.0": {
+      "type": "project",
+      "path": "../../../2 month/hw5_phoneBook/hw5_phoneBook/hw5_phoneBook.csproj",
+      "msbuildProject": "../../../2 month/hw5_phoneBook/hw5_phoneBook/hw5_phoneBook.csproj"
+    },
+    "hw5_registration/1.0.0": {
+      "type": "project",
+      "path": "../hw5_registration/hw5_registration.csproj",
+      "msbuildProject": "../hw5_registration/hw5_registration.csproj"
+    },
+    "HW6_Library/1.0.0": {
+      "type": "project",
+      "path": "../../../2 month/HW6_lIBRARY/HW6_lIBRARY/HW6_Library.csproj",
+      "msbuildProject": "../../../2 month/HW6_lIBRARY/HW6_lIBRARY/HW6_Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Game >= 1.0.0",
+      "HW6_Library >= 1.0.0",
+      "hw5_Doctor >= 1.0.0",
+      "hw5_phoneBook >= 1.0.0",
+      "hw5_registration >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\GIT\\Menu\\Menu\\Menu.csproj",
+      "projectName": "Menu",
+      "projectPath": "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\GIT\\Menu\\Menu\\Menu.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\GIT\\Menu\\Menu\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\2 month\\hw5_Doctor\\hw5_Doctor\\hw5_Doctor.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\2 month\\hw5_Doctor\\hw5_Doctor\\hw5_Doctor.csproj"
+            },
+            "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\2 month\\hw5_phoneBook\\hw5_phoneBook\\hw5_phoneBook.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\2 month\\hw5_phoneBook\\hw5_phoneBook\\hw5_phoneBook.csproj"
+            },
+            "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\2 month\\HW6_lIBRARY\\HW6_lIBRARY\\HW6_Library.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\2 month\\HW6_lIBRARY\\HW6_lIBRARY\\HW6_Library.csproj"
+            },
+            "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\2 month\\командная работа\\Game\\Game\\Game.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\2 month\\командная работа\\Game\\Game\\Game.csproj"
+            },
+            "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\GIT\\Menu\\hw5_registration\\hw5_registration.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\универ доки\\QA_AT\\AT\\GIT\\Menu\\hw5_registration\\hw5_registration.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
